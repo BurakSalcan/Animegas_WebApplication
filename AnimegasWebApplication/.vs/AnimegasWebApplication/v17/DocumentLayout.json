@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\AnimegasWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE07C55-04E8-43F4-9020-E461394374B3}|AnimegasWebApplication\\AnimegasWebApplication.csproj|c:\\users\\burak\\source\\repos\\animegaswebapplication\\animegaswebapplication\\giris\\uyegirisi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6CE07C55-04E8-43F4-9020-E461394374B3}|AnimegasWebApplication\\AnimegasWebApplication.csproj|solutionrelative:animegaswebapplication\\giris\\uyegirisi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE07C55-04E8-43F4-9020-E461394374B3}|AnimegasWebApplication\\AnimegasWebApplication.csproj|c:\\users\\burak\\source\\repos\\animegaswebapplication\\animegaswebapplication\\giris\\css\\girisstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CE07C55-04E8-43F4-9020-E461394374B3}|AnimegasWebApplication\\AnimegasWebApplication.csproj|solutionrelative:animegaswebapplication\\giris\\css\\girisstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GirisStyle.css",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\AnimegasWebApplication\\AnimegasWebApplication\\Giris\\css\\GirisStyle.css",
+              "RelativeDocumentMoniker": "AnimegasWebApplication\\Giris\\css\\GirisStyle.css",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\AnimegasWebApplication\\AnimegasWebApplication\\Giris\\css\\GirisStyle.css",
+              "RelativeToolTip": "AnimegasWebApplication\\Giris\\css\\GirisStyle.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T11:44:47.003Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UyeGirisi.aspx",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\AnimegasWebApplication\\AnimegasWebApplication\\Giris\\UyeGirisi.aspx",
+              "RelativeDocumentMoniker": "AnimegasWebApplication\\Giris\\UyeGirisi.aspx",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\AnimegasWebApplication\\AnimegasWebApplication\\Giris\\UyeGirisi.aspx",
+              "RelativeToolTip": "AnimegasWebApplication\\Giris\\UyeGirisi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-10T11:45:42.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

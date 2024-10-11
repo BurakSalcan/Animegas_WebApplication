@@ -1,0 +1,84 @@
+﻿*,h1,h2,h3,h4,h5,h6{
+    margin:0; padding:0;
+}
+
+body {
+    font-family: Calibri;
+    background-color: black;
+    background-image: url('../Resimler/Son Akşam Yemeği Anime-3 kopya.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: top;
+}
+
+.anapanel {
+    width: 1500px;
+    margin: 50px auto;
+}
+
+.tepepanel {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: /*transparent*/ #e2eea9;
+}
+    .tepepanel .title {
+        color: #93752E;
+        opacity: 0.8;
+        -webkit-text-stroke: 0.2px white;
+        padding-left: 25px;
+    }
+    .tepepanel .loginbuton {
+        padding: 20px;
+        width: 100px;
+        float: right;
+        margin-right: 30px;
+        background-color: grey;
+    }
+        .tepepanel .loginbuton:hover {
+            color: #433f3f;
+        }
+
+.ustpanel {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: /*#181A21*/ white;
+    border-radius: 10px;
+}
+    .ustpanel .sol {
+        padding: 20px;
+        width: 100px;
+        float: left;
+        background-color: hotpink;
+    }
+        .ustpanel .sol:hover {
+            background-color: deeppink;
+        }
+
+    .ustpanel .orta {
+        padding: 20px;
+        width: 100px;
+        float: left;
+        margin-left: 30px;
+        background-color: lightgreen;
+    }
+        .ustpanel .orta:hover {
+            background-color: green;
+        }
+
+    .ustpanel .sag {
+        padding: 20px;
+        width: 100px;
+        float: left;
+        margin-left: 30px;
+        background-color: deepskyblue;
+    }
+        .ustpanel .sag:hover {
+            background-color: blue;
+        }
+
+.buton {
+    color: white;
+    /*text-decoration: none;*/
+    padding: 20px;
+    border-radius: 5px;
+}
